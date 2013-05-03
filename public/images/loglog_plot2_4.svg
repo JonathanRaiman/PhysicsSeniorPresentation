@@ -1,0 +1,1655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="739.44px" height="434.66px" viewBox="0 0 739.44 434.66" enable-background="new 0 0 739.44 434.66" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<g>
+				<polyline fill="none" stroke="#3F3D99" stroke-width="0.36" stroke-linecap="square" stroke-miterlimit="3.25" points="
+					29.168,232.396 29.361,230.959 29.553,229.584 29.939,226.999 30.131,225.78 30.324,224.604 30.709,222.371 30.902,221.309 
+					31.094,220.277 31.48,218.305 32.25,214.671 32.443,213.818 32.636,212.986 33.021,211.377 33.792,208.36 35.333,202.978 
+					35.525,202.356 35.718,201.745 36.103,200.55 36.874,198.264 38.415,194.057 38.608,193.561 38.8,193.071 39.186,192.108 
+					39.956,190.249 41.498,186.764 41.706,186.314 41.915,185.868 42.333,184.991 43.168,183.29 44.839,180.083 45.048,179.698 
+					45.257,179.317 45.675,178.566 46.51,177.103 48.181,174.321 48.39,173.986 48.599,173.653 49.016,172.996 49.852,171.713 
+					51.522,169.261 54.864,164.763 55.059,164.516 55.254,164.27 55.644,163.783 56.424,162.827 57.984,160.983 61.105,157.545 
+					61.3,157.34 61.495,157.137 61.885,156.733 62.665,155.939 64.225,154.401 67.345,151.511 67.536,151.341 67.727,151.173 
+					68.11,150.837 68.875,150.176 70.404,148.89 73.463,146.452 79.581,142.03 79.788,141.889 79.996,141.749 80.411,141.47 
+					81.24,140.918 82.899,139.839 86.218,137.767 92.854,133.909 105.242,127.385 118.666,120.65 118.872,120.545 119.078,120.439 
+					119.49,120.227 120.313,119.802 121.961,118.941 125.256,117.165 125.462,117.052 125.668,116.937 126.079,116.708 
+					126.903,116.243 128.551,115.292 131.846,113.275 132.038,113.152 132.23,113.028 132.614,112.778 133.382,112.269 
+					134.919,111.209 135.111,111.072 135.303,110.935 135.687,110.656 136.456,110.085 137.992,108.884 138.185,108.728 
+					138.377,108.57 138.761,108.249 139.529,107.588 141.066,106.176 141.258,105.989 141.45,105.801 141.834,105.416 
+					142.603,104.616 144.139,102.867 144.348,102.612 144.556,102.352 144.973,101.819 145.806,100.685 146.014,100.386 
+					146.222,100.08 146.639,99.448 147.472,98.086 147.68,97.722 147.889,97.349 148.305,96.569 148.514,96.162 148.722,95.741 
+					149.138,94.858 149.347,94.393 149.555,93.911 149.972,92.891 150.18,92.35 150.388,91.786 150.805,90.58 151.013,89.933 
+					151.221,89.252 151.43,88.534 151.638,87.775 151.846,86.97 152.055,86.112 152.471,84.209 152.679,83.144 152.888,81.985 
+					153.096,80.715 153.304,79.311 153.513,77.741 153.721,75.961 153.929,73.905 154.138,71.476 154.346,68.507 154.554,64.693 
+					154.762,59.372 154.971,50.655 155.179,35.408 155.181,35.557 155.387,50.446 155.596,59.301 155.804,64.693 156.012,68.558 
+					156.221,71.57 156.429,74.038 156.637,76.129 156.845,77.943 157.054,79.547 157.262,80.983 157.47,82.285 157.665,83.399 
+					157.859,84.43 158.054,85.391 158.248,86.29 158.443,87.135 158.637,87.933 159.026,89.404 159.22,90.087 159.415,90.739 
+					159.804,91.96 160.582,94.132 160.776,94.628 160.97,95.108 161.359,96.024 162.137,97.705 162.332,98.098 162.526,98.481 
+					162.915,99.22 163.693,100.601 163.887,100.928 164.082,101.249 164.471,101.872 165.248,103.052 166.804,105.19 
+					166.999,105.44 167.193,105.686 167.582,106.169 168.36,107.098 169.915,108.829 170.106,109.031 170.297,109.231 
+					170.678,109.625 171.44,110.392 172.966,111.848 176.016,114.514 176.206,114.672 176.397,114.828 176.778,115.139 
+					177.541,115.75 179.066,116.936 182.116,119.183 182.323,119.33 182.529,119.477 182.943,119.769 183.77,120.347 
+					185.425,121.478 188.734,123.665 195.353,127.821 207.705,135.187 221.093,143.01 234.237,150.741 246.495,158.065 
+					259.791,166.144 272.2,173.803 285.647,182.211 298.848,190.554 311.164,198.399 324.517,206.956 336.984,214.983 
+					349.207,222.878 362.466,231.464 374.84,239.493 388.251,248.206 401.417,256.771 413.697,264.763 427.014,273.438 
+					439.446,281.537 451.632,289.479 464.856,298.1 477.194,306.145 490.569,314.865 503.058,323.01 515.303,330.995 
+					528.584,339.658 540.98,347.742 554.413,356.504 567.601,365.106 579.903,373.13 593.243,381.831 605.696,389.954 
+					617.905,397.918 631.151,406.559 643.511,414.62 643.726,414.761 643.942,414.901 644.373,415.184 645.236,415.745 
+					646.96,416.87 650.41,419.12 650.625,419.261 650.841,419.401 651.271,419.683 652.134,420.245 653.859,421.37 654.075,421.511 
+					654.29,421.651 654.721,421.933 655.584,422.495 655.799,422.636 656.015,422.776 656.446,423.058 656.662,423.198 
+					656.877,423.339 657.093,423.479 657.308,423.62 				"/>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.144" stroke-miterlimit="3.25" x1="162.172" y1="423.62" x2="162.172" y2="420.74"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_1_" points="154.72,428.12 154.72,436.12 169.72,436.12 169.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_2_)">
+					<defs>
+						<polyline id="SVGID_3_" points="153.72,427.12 153.72,437.12 170.72,437.12 170.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_4_">
+						<use xlink:href="#SVGID_3_"  overflow="visible"/>
+					</clipPath>
+					<g clip-path="url(#SVGID_4_)">
+						<text transform="matrix(1 0 0 1 155.6919 433.6602)" font-family="'Times-Roman'" font-size="6.48">1000</text>
+					</g>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.144" stroke-miterlimit="3.25" x1="352.459" y1="423.62" x2="352.459" y2="420.74"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_5_" points="346.72,425.12 346.72,435.12 357.72,435.12 357.72,425.12 					"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_6_)">
+					<defs>
+						<polyline id="SVGID_7_" points="345.72,424.12 345.72,436.12 358.72,436.12 358.72,424.12 						"/>
+					</defs>
+					<clipPath id="SVGID_8_">
+						<use xlink:href="#SVGID_7_"  overflow="visible"/>
+					</clipPath>
+					<g clip-path="url(#SVGID_8_)">
+						<text transform="matrix(1 0 0 1 347.8818 433.2744)" font-family="'Times-Roman'" font-size="6.48">10</text>
+					</g>
+					<g clip-path="url(#SVGID_8_)">
+						<text transform="matrix(1 0 0 1 354.3618 430.5)" font-family="'Times-Roman'" font-size="4.601">4</text>
+					</g>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.144" stroke-miterlimit="3.25" x1="542.745" y1="423.62" x2="542.745" y2="420.74"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_9_" points="536.72,425.12 536.72,435.12 548.72,435.12 548.72,425.12 					"/>
+				</defs>
+				<clipPath id="SVGID_10_">
+					<use xlink:href="#SVGID_9_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_10_)">
+					<defs>
+						<polyline id="SVGID_11_" points="535.72,424.12 535.72,436.12 549.72,436.12 549.72,424.12 						"/>
+					</defs>
+					<clipPath id="SVGID_12_">
+						<use xlink:href="#SVGID_11_"  overflow="visible"/>
+					</clipPath>
+					<g clip-path="url(#SVGID_12_)">
+						<text transform="matrix(1 0 0 1 538.1748 433.5547)" font-family="'Times-Roman'" font-size="6.48">10</text>
+					</g>
+					<g clip-path="url(#SVGID_12_)">
+						<text transform="matrix(1 0 0 1 544.6543 430.7803)" font-family="'Times-Roman'" font-size="4.601">5</text>
+					</g>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="423.62" x2="29.168" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_13_" points="26.72,427.12 26.72,437.12 30.72,437.12 30.72,427.12 					"/>
+				</defs>
+				<clipPath id="SVGID_14_">
+					<use xlink:href="#SVGID_13_"  overflow="visible"/>
+				</clipPath>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="62.676" y1="423.62" x2="62.676" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_15_" points="61.72,428.12 61.72,436.12 63.72,436.12 63.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_16_">
+					<use xlink:href="#SVGID_15_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_16_)">
+					<defs>
+						<polyline id="SVGID_17_" points="60.72,427.12 60.72,437.12 64.72,437.12 64.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_18_">
+						<use xlink:href="#SVGID_17_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="86.45" y1="423.62" x2="86.45" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_19_" points="85.72,428.12 85.72,436.12 87.72,436.12 87.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_20_">
+					<use xlink:href="#SVGID_19_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_20_)">
+					<defs>
+						<polyline id="SVGID_21_" points="84.72,427.12 84.72,437.12 88.72,437.12 88.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_22_">
+						<use xlink:href="#SVGID_21_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="104.89" y1="423.62" x2="104.89" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_23_" points="103.72,428.12 103.72,436.12 105.72,436.12 105.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_24_">
+					<use xlink:href="#SVGID_23_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_24_)">
+					<defs>
+						<polyline id="SVGID_25_" points="102.72,427.12 102.72,437.12 106.72,437.12 106.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_26_">
+						<use xlink:href="#SVGID_25_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="119.958" y1="423.62" x2="119.958" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_27_" points="118.72,428.12 118.72,436.12 120.72,436.12 120.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_28_">
+					<use xlink:href="#SVGID_27_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_28_)">
+					<defs>
+						<polyline id="SVGID_29_" points="117.72,427.12 117.72,437.12 121.72,437.12 121.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_30_">
+						<use xlink:href="#SVGID_29_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="132.697" y1="423.62" x2="132.697" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_31_" points="131.72,428.12 131.72,436.12 133.72,436.12 133.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_32_">
+					<use xlink:href="#SVGID_31_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_32_)">
+					<defs>
+						<polyline id="SVGID_33_" points="130.72,427.12 130.72,437.12 134.72,437.12 134.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_34_">
+						<use xlink:href="#SVGID_33_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="143.732" y1="423.62" x2="143.732" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_35_" points="142.72,428.12 142.72,436.12 144.72,436.12 144.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_36_">
+					<use xlink:href="#SVGID_35_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_36_)">
+					<defs>
+						<polyline id="SVGID_37_" points="141.72,427.12 141.72,437.12 145.72,437.12 145.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_38_">
+						<use xlink:href="#SVGID_37_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="153.465" y1="423.62" x2="153.465" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_39_" points="152.72,428.12 152.72,436.12 154.72,436.12 154.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_40_">
+					<use xlink:href="#SVGID_39_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_40_)">
+					<defs>
+						<polyline id="SVGID_41_" points="151.72,427.12 151.72,437.12 155.72,437.12 155.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_42_">
+						<use xlink:href="#SVGID_41_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="219.454" y1="423.62" x2="219.454" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_43_" points="218.72,428.12 218.72,436.12 220.72,436.12 220.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_44_">
+					<use xlink:href="#SVGID_43_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_44_)">
+					<defs>
+						<polyline id="SVGID_45_" points="217.72,427.12 217.72,437.12 221.72,437.12 221.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_46_">
+						<use xlink:href="#SVGID_45_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="252.962" y1="423.62" x2="252.962" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_47_" points="251.72,428.12 251.72,436.12 253.72,436.12 253.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_48_">
+					<use xlink:href="#SVGID_47_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_48_)">
+					<defs>
+						<polyline id="SVGID_49_" points="250.72,427.12 250.72,437.12 254.72,437.12 254.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_50_">
+						<use xlink:href="#SVGID_49_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="276.736" y1="423.62" x2="276.736" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_51_" points="275.72,428.12 275.72,436.12 277.72,436.12 277.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_52_">
+					<use xlink:href="#SVGID_51_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_52_)">
+					<defs>
+						<polyline id="SVGID_53_" points="274.72,427.12 274.72,437.12 278.72,437.12 278.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_54_">
+						<use xlink:href="#SVGID_53_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="295.177" y1="423.62" x2="295.177" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_55_" points="293.72,428.12 293.72,436.12 295.72,436.12 295.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_56_">
+					<use xlink:href="#SVGID_55_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_56_)">
+					<defs>
+						<polyline id="SVGID_57_" points="292.72,427.12 292.72,437.12 296.72,437.12 296.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_58_">
+						<use xlink:href="#SVGID_57_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="310.244" y1="423.62" x2="310.244" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_59_" points="309.72,428.12 309.72,436.12 311.72,436.12 311.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_60_">
+					<use xlink:href="#SVGID_59_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_60_)">
+					<defs>
+						<polyline id="SVGID_61_" points="308.72,427.12 308.72,437.12 312.72,437.12 312.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_62_">
+						<use xlink:href="#SVGID_61_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="322.983" y1="423.62" x2="322.983" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_63_" points="321.72,428.12 321.72,436.12 323.72,436.12 323.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_64_">
+					<use xlink:href="#SVGID_63_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_64_)">
+					<defs>
+						<polyline id="SVGID_65_" points="320.72,427.12 320.72,437.12 324.72,437.12 324.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_66_">
+						<use xlink:href="#SVGID_65_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="334.018" y1="423.62" x2="334.018" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_67_" points="332.72,428.12 332.72,436.12 334.72,436.12 334.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_68_">
+					<use xlink:href="#SVGID_67_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_68_)">
+					<defs>
+						<polyline id="SVGID_69_" points="331.72,427.12 331.72,437.12 335.72,437.12 335.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_70_">
+						<use xlink:href="#SVGID_69_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="343.752" y1="423.62" x2="343.752" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_71_" points="342.72,428.12 342.72,436.12 344.72,436.12 344.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_72_">
+					<use xlink:href="#SVGID_71_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_72_)">
+					<defs>
+						<polyline id="SVGID_73_" points="341.72,427.12 341.72,437.12 345.72,437.12 345.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_74_">
+						<use xlink:href="#SVGID_73_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="409.74" y1="423.62" x2="409.74" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_75_" points="408.72,428.12 408.72,436.12 410.72,436.12 410.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_76_">
+					<use xlink:href="#SVGID_75_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_76_)">
+					<defs>
+						<polyline id="SVGID_77_" points="407.72,427.12 407.72,437.12 411.72,437.12 411.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_78_">
+						<use xlink:href="#SVGID_77_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="443.248" y1="423.62" x2="443.248" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_79_" points="442.72,428.12 442.72,436.12 444.72,436.12 444.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_80_">
+					<use xlink:href="#SVGID_79_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_80_)">
+					<defs>
+						<polyline id="SVGID_81_" points="441.72,427.12 441.72,437.12 445.72,437.12 445.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_82_">
+						<use xlink:href="#SVGID_81_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="467.022" y1="423.62" x2="467.022" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_83_" points="465.72,428.12 465.72,436.12 467.72,436.12 467.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_84_">
+					<use xlink:href="#SVGID_83_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_84_)">
+					<defs>
+						<polyline id="SVGID_85_" points="464.72,427.12 464.72,437.12 468.72,437.12 468.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_86_">
+						<use xlink:href="#SVGID_85_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="485.463" y1="423.62" x2="485.463" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_87_" points="484.72,428.12 484.72,436.12 486.72,436.12 486.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_88_">
+					<use xlink:href="#SVGID_87_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_88_)">
+					<defs>
+						<polyline id="SVGID_89_" points="483.72,427.12 483.72,437.12 487.72,437.12 487.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_90_">
+						<use xlink:href="#SVGID_89_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="500.53" y1="423.62" x2="500.53" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_91_" points="499.72,428.12 499.72,436.12 501.72,436.12 501.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_92_">
+					<use xlink:href="#SVGID_91_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_92_)">
+					<defs>
+						<polyline id="SVGID_93_" points="498.72,427.12 498.72,437.12 502.72,437.12 502.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_94_">
+						<use xlink:href="#SVGID_93_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="513.27" y1="423.62" x2="513.27" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_95_" points="512.72,428.12 512.72,436.12 514.72,436.12 514.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_96_">
+					<use xlink:href="#SVGID_95_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_96_)">
+					<defs>
+						<polyline id="SVGID_97_" points="511.72,427.12 511.72,437.12 515.72,437.12 515.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_98_">
+						<use xlink:href="#SVGID_97_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="524.304" y1="423.62" x2="524.304" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_99_" points="523.72,428.12 523.72,436.12 525.72,436.12 525.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_100_">
+					<use xlink:href="#SVGID_99_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_100_)">
+					<defs>
+						<polyline id="SVGID_101_" points="522.72,427.12 522.72,437.12 526.72,437.12 526.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_102_">
+						<use xlink:href="#SVGID_101_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="534.038" y1="423.62" x2="534.038" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_103_" points="532.72,428.12 532.72,436.12 534.72,436.12 534.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_104_">
+					<use xlink:href="#SVGID_103_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_104_)">
+					<defs>
+						<polyline id="SVGID_105_" points="531.72,427.12 531.72,437.12 535.72,437.12 535.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_106_">
+						<use xlink:href="#SVGID_105_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="600.027" y1="423.62" x2="600.027" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_107_" points="598.72,428.12 598.72,436.12 600.72,436.12 600.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_108_">
+					<use xlink:href="#SVGID_107_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_108_)">
+					<defs>
+						<polyline id="SVGID_109_" points="597.72,427.12 597.72,437.12 601.72,437.12 601.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_110_">
+						<use xlink:href="#SVGID_109_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="633.534" y1="423.62" x2="633.534" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_111_" points="632.72,428.12 632.72,436.12 634.72,436.12 634.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_112_">
+					<use xlink:href="#SVGID_111_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_112_)">
+					<defs>
+						<polyline id="SVGID_113_" points="631.72,427.12 631.72,437.12 635.72,437.12 635.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_114_">
+						<use xlink:href="#SVGID_113_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="657.308" y1="423.62" x2="657.308" y2="421.166"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_115_" points="656.72,428.12 656.72,436.12 658.72,436.12 658.72,428.12 					"/>
+				</defs>
+				<clipPath id="SVGID_116_">
+					<use xlink:href="#SVGID_115_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_116_)">
+					<defs>
+						<polyline id="SVGID_117_" points="655.72,427.12 655.72,437.12 659.72,437.12 659.72,427.12 						"/>
+					</defs>
+					<clipPath id="SVGID_118_">
+						<use xlink:href="#SVGID_117_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.144" stroke-miterlimit="3.25" x1="16.082" y1="423.62" x2="670.395" y2="423.62"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.144" stroke-miterlimit="3.25" x1="29.168" y1="415.033" x2="32.048" y2="415.033"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_119_" points="11.72,410.12 11.72,420.12 27.72,420.12 27.72,410.12 					"/>
+				</defs>
+				<clipPath id="SVGID_120_">
+					<use xlink:href="#SVGID_119_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_120_)">
+					<defs>
+						<polyline id="SVGID_121_" points="10.72,409.12 10.72,421.12 28.72,421.12 28.72,409.12 						"/>
+					</defs>
+					<clipPath id="SVGID_122_">
+						<use xlink:href="#SVGID_121_"  overflow="visible"/>
+					</clipPath>
+					<g clip-path="url(#SVGID_122_)">
+						<text transform="matrix(1 0 0 1 12.604 417.9209)" font-family="'Times-Roman'" font-size="6.48">10</text>
+					</g>
+					<g clip-path="url(#SVGID_122_)">
+						<text transform="matrix(1 0 0 1 19.084 415.1465)" font-family="'Myriad-Roman'" font-size="4.601"></text>
+					</g>
+					<g clip-path="url(#SVGID_122_)">
+						<text transform="matrix(1 0 0 1 22.0469 415.1465)" font-family="'Times-Roman'" font-size="4.601">13</text>
+					</g>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.144" stroke-miterlimit="3.25" x1="29.168" y1="352.972" x2="32.048" y2="352.972"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_123_" points="11.72,348.12 11.72,358.12 27.72,358.12 27.72,348.12 					"/>
+				</defs>
+				<clipPath id="SVGID_124_">
+					<use xlink:href="#SVGID_123_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_124_)">
+					<defs>
+						<polyline id="SVGID_125_" points="10.72,347.12 10.72,359.12 28.72,359.12 28.72,347.12 						"/>
+					</defs>
+					<clipPath id="SVGID_126_">
+						<use xlink:href="#SVGID_125_"  overflow="visible"/>
+					</clipPath>
+					<g clip-path="url(#SVGID_126_)">
+						<text transform="matrix(1 0 0 1 12.604 355.8594)" font-family="'Times-Roman'" font-size="6.48">10</text>
+					</g>
+					<g clip-path="url(#SVGID_126_)">
+						<text transform="matrix(1 0 0 1 19.084 353.085)" font-family="'Myriad-Roman'" font-size="4.601"></text>
+					</g>
+					<g clip-path="url(#SVGID_126_)">
+						<text transform="matrix(1 0 0 1 22.0469 353.085)" font-family="'Times-Roman'" font-size="4.601">11</text>
+					</g>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.144" stroke-miterlimit="3.25" x1="29.168" y1="290.911" x2="32.048" y2="290.911"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_127_" points="13.72,286.12 13.72,296.12 27.72,296.12 27.72,286.12 					"/>
+				</defs>
+				<clipPath id="SVGID_128_">
+					<use xlink:href="#SVGID_127_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_128_)">
+					<defs>
+						<polyline id="SVGID_129_" points="12.72,285.12 12.72,297.12 28.72,297.12 28.72,285.12 						"/>
+					</defs>
+					<clipPath id="SVGID_130_">
+						<use xlink:href="#SVGID_129_"  overflow="visible"/>
+					</clipPath>
+					<g clip-path="url(#SVGID_130_)">
+						<text transform="matrix(1 0 0 1 14.9038 293.7988)" font-family="'Times-Roman'" font-size="6.48">10</text>
+					</g>
+					<g clip-path="url(#SVGID_130_)">
+						<text transform="matrix(1 0 0 1 21.3838 291.0244)" font-family="'Myriad-Roman'" font-size="4.601"></text>
+					</g>
+					<g clip-path="url(#SVGID_130_)">
+						<text transform="matrix(1 0 0 1 24.3467 291.0244)" font-family="'Times-Roman'" font-size="4.601">9</text>
+					</g>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.144" stroke-miterlimit="3.25" x1="29.168" y1="228.852" x2="32.048" y2="228.852"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_131_" points="13.72,224.12 13.72,234.12 27.72,234.12 27.72,224.12 					"/>
+				</defs>
+				<clipPath id="SVGID_132_">
+					<use xlink:href="#SVGID_131_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_132_)">
+					<defs>
+						<polyline id="SVGID_133_" points="12.72,223.12 12.72,235.12 28.72,235.12 28.72,223.12 						"/>
+					</defs>
+					<clipPath id="SVGID_134_">
+						<use xlink:href="#SVGID_133_"  overflow="visible"/>
+					</clipPath>
+					<g clip-path="url(#SVGID_134_)">
+						<text transform="matrix(1 0 0 1 14.9038 231.7373)" font-family="'Times-Roman'" font-size="6.48">10</text>
+					</g>
+					<g clip-path="url(#SVGID_134_)">
+						<text transform="matrix(1 0 0 1 21.3838 228.9629)" font-family="'Myriad-Roman'" font-size="4.601"></text>
+					</g>
+					<g clip-path="url(#SVGID_134_)">
+						<text transform="matrix(1 0 0 1 24.3467 228.9629)" font-family="'Times-Roman'" font-size="4.601">7</text>
+					</g>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.144" stroke-miterlimit="3.25" x1="29.168" y1="166.79" x2="32.048" y2="166.79"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_135_" points="13.72,161.12 13.72,172.12 27.72,172.12 27.72,161.12 					"/>
+				</defs>
+				<clipPath id="SVGID_136_">
+					<use xlink:href="#SVGID_135_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_136_)">
+					<defs>
+						<polyline id="SVGID_137_" points="12.72,160.12 12.72,173.12 28.72,173.12 28.72,160.12 						"/>
+					</defs>
+					<clipPath id="SVGID_138_">
+						<use xlink:href="#SVGID_137_"  overflow="visible"/>
+					</clipPath>
+					<g clip-path="url(#SVGID_138_)">
+						<text transform="matrix(1 0 0 1 14.9038 170.1777)" font-family="'Times-Roman'" font-size="6.48">10</text>
+					</g>
+					<g clip-path="url(#SVGID_138_)">
+						<text transform="matrix(1 0 0 1 21.3838 167.4033)" font-family="'Myriad-Roman'" font-size="4.601"></text>
+					</g>
+					<g clip-path="url(#SVGID_138_)">
+						<text transform="matrix(1 0 0 1 24.3467 167.4033)" font-family="'Times-Roman'" font-size="4.601">5</text>
+					</g>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.144" stroke-miterlimit="3.25" x1="29.168" y1="104.729" x2="32.048" y2="104.729"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_139_" points="11.72,101.12 11.72,109.12 27.72,109.12 27.72,101.12 					"/>
+				</defs>
+				<clipPath id="SVGID_140_">
+					<use xlink:href="#SVGID_139_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_140_)">
+					<defs>
+						<polyline id="SVGID_141_" points="10.72,100.12 10.72,110.12 28.72,110.12 28.72,100.12 						"/>
+					</defs>
+					<clipPath id="SVGID_142_">
+						<use xlink:href="#SVGID_141_"  overflow="visible"/>
+					</clipPath>
+					<g clip-path="url(#SVGID_142_)">
+						<text transform="matrix(1 0 0 1 12.4282 106.7295)" font-family="'Times-Roman'" font-size="6.48">0.001</text>
+					</g>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.144" stroke-miterlimit="3.25" x1="29.168" y1="42.669" x2="32.048" y2="42.669"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_143_" points="17.72,39.12 17.72,47.12 27.72,47.12 27.72,39.12 					"/>
+				</defs>
+				<clipPath id="SVGID_144_">
+					<use xlink:href="#SVGID_143_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_144_)">
+					<defs>
+						<polyline id="SVGID_145_" points="16.72,38.12 16.72,48.12 28.72,48.12 28.72,38.12 						"/>
+					</defs>
+					<clipPath id="SVGID_146_">
+						<use xlink:href="#SVGID_145_"  overflow="visible"/>
+					</clipPath>
+					<g clip-path="url(#SVGID_146_)">
+						<text transform="matrix(1 0 0 1 18.9082 44.6689)" font-family="'Times-Roman'" font-size="6.48">0.1</text>
+					</g>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="381.546" x2="31.622" y2="381.546"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_147_" points="25.72,377.12 25.72,385.12 27.72,385.12 27.72,377.12 					"/>
+				</defs>
+				<clipPath id="SVGID_148_">
+					<use xlink:href="#SVGID_147_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_148_)">
+					<defs>
+						<polyline id="SVGID_149_" points="24.72,376.12 24.72,386.12 28.72,386.12 28.72,376.12 						"/>
+					</defs>
+					<clipPath id="SVGID_150_">
+						<use xlink:href="#SVGID_149_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="372.778" x2="31.622" y2="372.778"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_151_" points="25.72,369.12 25.72,377.12 27.72,377.12 27.72,369.12 					"/>
+				</defs>
+				<clipPath id="SVGID_152_">
+					<use xlink:href="#SVGID_151_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_152_)">
+					<defs>
+						<polyline id="SVGID_153_" points="24.72,368.12 24.72,378.12 28.72,378.12 28.72,368.12 						"/>
+					</defs>
+					<clipPath id="SVGID_154_">
+						<use xlink:href="#SVGID_153_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="367.511" x2="31.622" y2="367.511"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_155_" points="25.72,363.12 25.72,371.12 27.72,371.12 27.72,363.12 					"/>
+				</defs>
+				<clipPath id="SVGID_156_">
+					<use xlink:href="#SVGID_155_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_156_)">
+					<defs>
+						<polyline id="SVGID_157_" points="24.72,362.12 24.72,372.12 28.72,372.12 28.72,362.12 						"/>
+					</defs>
+					<clipPath id="SVGID_158_">
+						<use xlink:href="#SVGID_157_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="363.733" x2="31.622" y2="363.733"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_159_" points="25.72,360.12 25.72,368.12 27.72,368.12 27.72,360.12 					"/>
+				</defs>
+				<clipPath id="SVGID_160_">
+					<use xlink:href="#SVGID_159_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_160_)">
+					<defs>
+						<polyline id="SVGID_161_" points="24.72,359.12 24.72,369.12 28.72,369.12 28.72,359.12 						"/>
+					</defs>
+					<clipPath id="SVGID_162_">
+						<use xlink:href="#SVGID_161_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="360.786" x2="31.622" y2="360.786"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_163_" points="25.72,357.12 25.72,365.12 27.72,365.12 27.72,357.12 					"/>
+				</defs>
+				<clipPath id="SVGID_164_">
+					<use xlink:href="#SVGID_163_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_164_)">
+					<defs>
+						<polyline id="SVGID_165_" points="24.72,356.12 24.72,366.12 28.72,366.12 28.72,356.12 						"/>
+					</defs>
+					<clipPath id="SVGID_166_">
+						<use xlink:href="#SVGID_165_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="358.369" x2="31.622" y2="358.369"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_167_" points="25.72,354.12 25.72,362.12 27.72,362.12 27.72,354.12 					"/>
+				</defs>
+				<clipPath id="SVGID_168_">
+					<use xlink:href="#SVGID_167_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_168_)">
+					<defs>
+						<polyline id="SVGID_169_" points="24.72,353.12 24.72,363.12 28.72,363.12 28.72,353.12 						"/>
+					</defs>
+					<clipPath id="SVGID_170_">
+						<use xlink:href="#SVGID_169_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="356.321" x2="31.622" y2="356.321"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_171_" points="25.72,352.12 25.72,360.12 27.72,360.12 27.72,352.12 					"/>
+				</defs>
+				<clipPath id="SVGID_172_">
+					<use xlink:href="#SVGID_171_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_172_)">
+					<defs>
+						<polyline id="SVGID_173_" points="24.72,351.12 24.72,361.12 28.72,361.12 28.72,351.12 						"/>
+					</defs>
+					<clipPath id="SVGID_174_">
+						<use xlink:href="#SVGID_173_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="354.543" x2="31.622" y2="354.543"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_175_" points="25.72,350.12 25.72,358.12 27.72,358.12 27.72,350.12 					"/>
+				</defs>
+				<clipPath id="SVGID_176_">
+					<use xlink:href="#SVGID_175_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_176_)">
+					<defs>
+						<polyline id="SVGID_177_" points="24.72,349.12 24.72,359.12 28.72,359.12 28.72,349.12 						"/>
+					</defs>
+					<clipPath id="SVGID_178_">
+						<use xlink:href="#SVGID_177_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="319.485" x2="31.622" y2="319.485"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_179_" points="25.72,315.12 25.72,323.12 27.72,323.12 27.72,315.12 					"/>
+				</defs>
+				<clipPath id="SVGID_180_">
+					<use xlink:href="#SVGID_179_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_180_)">
+					<defs>
+						<polyline id="SVGID_181_" points="24.72,314.12 24.72,324.12 28.72,324.12 28.72,314.12 						"/>
+					</defs>
+					<clipPath id="SVGID_182_">
+						<use xlink:href="#SVGID_181_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="310.717" x2="31.622" y2="310.717"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_183_" points="25.72,307.12 25.72,315.12 27.72,315.12 27.72,307.12 					"/>
+				</defs>
+				<clipPath id="SVGID_184_">
+					<use xlink:href="#SVGID_183_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_184_)">
+					<defs>
+						<polyline id="SVGID_185_" points="24.72,306.12 24.72,316.12 28.72,316.12 28.72,306.12 						"/>
+					</defs>
+					<clipPath id="SVGID_186_">
+						<use xlink:href="#SVGID_185_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="305.45" x2="31.622" y2="305.45"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_187_" points="25.72,301.12 25.72,309.12 27.72,309.12 27.72,301.12 					"/>
+				</defs>
+				<clipPath id="SVGID_188_">
+					<use xlink:href="#SVGID_187_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_188_)">
+					<defs>
+						<polyline id="SVGID_189_" points="24.72,300.12 24.72,310.12 28.72,310.12 28.72,300.12 						"/>
+					</defs>
+					<clipPath id="SVGID_190_">
+						<use xlink:href="#SVGID_189_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="301.672" x2="31.622" y2="301.672"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_191_" points="25.72,298.12 25.72,306.12 27.72,306.12 27.72,298.12 					"/>
+				</defs>
+				<clipPath id="SVGID_192_">
+					<use xlink:href="#SVGID_191_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_192_)">
+					<defs>
+						<polyline id="SVGID_193_" points="24.72,297.12 24.72,307.12 28.72,307.12 28.72,297.12 						"/>
+					</defs>
+					<clipPath id="SVGID_194_">
+						<use xlink:href="#SVGID_193_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="298.726" x2="31.622" y2="298.726"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_195_" points="25.72,295.12 25.72,303.12 27.72,303.12 27.72,295.12 					"/>
+				</defs>
+				<clipPath id="SVGID_196_">
+					<use xlink:href="#SVGID_195_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_196_)">
+					<defs>
+						<polyline id="SVGID_197_" points="24.72,294.12 24.72,304.12 28.72,304.12 28.72,294.12 						"/>
+					</defs>
+					<clipPath id="SVGID_198_">
+						<use xlink:href="#SVGID_197_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="296.309" x2="31.622" y2="296.309"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_199_" points="25.72,292.12 25.72,300.12 27.72,300.12 27.72,292.12 					"/>
+				</defs>
+				<clipPath id="SVGID_200_">
+					<use xlink:href="#SVGID_199_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_200_)">
+					<defs>
+						<polyline id="SVGID_201_" points="24.72,291.12 24.72,301.12 28.72,301.12 28.72,291.12 						"/>
+					</defs>
+					<clipPath id="SVGID_202_">
+						<use xlink:href="#SVGID_201_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="294.26" x2="31.622" y2="294.26"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_203_" points="25.72,290.12 25.72,298.12 27.72,298.12 27.72,290.12 					"/>
+				</defs>
+				<clipPath id="SVGID_204_">
+					<use xlink:href="#SVGID_203_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_204_)">
+					<defs>
+						<polyline id="SVGID_205_" points="24.72,289.12 24.72,299.12 28.72,299.12 28.72,289.12 						"/>
+					</defs>
+					<clipPath id="SVGID_206_">
+						<use xlink:href="#SVGID_205_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="292.482" x2="31.622" y2="292.482"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_207_" points="25.72,288.12 25.72,296.12 27.72,296.12 27.72,288.12 					"/>
+				</defs>
+				<clipPath id="SVGID_208_">
+					<use xlink:href="#SVGID_207_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_208_)">
+					<defs>
+						<polyline id="SVGID_209_" points="24.72,287.12 24.72,297.12 28.72,297.12 28.72,287.12 						"/>
+					</defs>
+					<clipPath id="SVGID_210_">
+						<use xlink:href="#SVGID_209_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="257.424" x2="31.622" y2="257.424"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_211_" points="25.72,253.12 25.72,261.12 27.72,261.12 27.72,253.12 					"/>
+				</defs>
+				<clipPath id="SVGID_212_">
+					<use xlink:href="#SVGID_211_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_212_)">
+					<defs>
+						<polyline id="SVGID_213_" points="24.72,252.12 24.72,262.12 28.72,262.12 28.72,252.12 						"/>
+					</defs>
+					<clipPath id="SVGID_214_">
+						<use xlink:href="#SVGID_213_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="248.657" x2="31.622" y2="248.657"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_215_" points="25.72,245.12 25.72,253.12 27.72,253.12 27.72,245.12 					"/>
+				</defs>
+				<clipPath id="SVGID_216_">
+					<use xlink:href="#SVGID_215_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_216_)">
+					<defs>
+						<polyline id="SVGID_217_" points="24.72,244.12 24.72,254.12 28.72,254.12 28.72,244.12 						"/>
+					</defs>
+					<clipPath id="SVGID_218_">
+						<use xlink:href="#SVGID_217_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="243.389" x2="31.622" y2="243.389"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_219_" points="25.72,239.12 25.72,247.12 27.72,247.12 27.72,239.12 					"/>
+				</defs>
+				<clipPath id="SVGID_220_">
+					<use xlink:href="#SVGID_219_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_220_)">
+					<defs>
+						<polyline id="SVGID_221_" points="24.72,238.12 24.72,248.12 28.72,248.12 28.72,238.12 						"/>
+					</defs>
+					<clipPath id="SVGID_222_">
+						<use xlink:href="#SVGID_221_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="239.612" x2="31.622" y2="239.612"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_223_" points="25.72,235.12 25.72,243.12 27.72,243.12 27.72,235.12 					"/>
+				</defs>
+				<clipPath id="SVGID_224_">
+					<use xlink:href="#SVGID_223_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_224_)">
+					<defs>
+						<polyline id="SVGID_225_" points="24.72,234.12 24.72,244.12 28.72,244.12 28.72,234.12 						"/>
+					</defs>
+					<clipPath id="SVGID_226_">
+						<use xlink:href="#SVGID_225_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="236.665" x2="31.622" y2="236.665"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_227_" points="25.72,233.12 25.72,241.12 27.72,241.12 27.72,233.12 					"/>
+				</defs>
+				<clipPath id="SVGID_228_">
+					<use xlink:href="#SVGID_227_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_228_)">
+					<defs>
+						<polyline id="SVGID_229_" points="24.72,232.12 24.72,242.12 28.72,242.12 28.72,232.12 						"/>
+					</defs>
+					<clipPath id="SVGID_230_">
+						<use xlink:href="#SVGID_229_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="234.248" x2="31.622" y2="234.248"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_231_" points="25.72,230.12 25.72,238.12 27.72,238.12 27.72,230.12 					"/>
+				</defs>
+				<clipPath id="SVGID_232_">
+					<use xlink:href="#SVGID_231_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_232_)">
+					<defs>
+						<polyline id="SVGID_233_" points="24.72,229.12 24.72,239.12 28.72,239.12 28.72,229.12 						"/>
+					</defs>
+					<clipPath id="SVGID_234_">
+						<use xlink:href="#SVGID_233_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="232.199" x2="31.622" y2="232.199"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_235_" points="25.72,228.12 25.72,236.12 27.72,236.12 27.72,228.12 					"/>
+				</defs>
+				<clipPath id="SVGID_236_">
+					<use xlink:href="#SVGID_235_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_236_)">
+					<defs>
+						<polyline id="SVGID_237_" points="24.72,227.12 24.72,237.12 28.72,237.12 28.72,227.12 						"/>
+					</defs>
+					<clipPath id="SVGID_238_">
+						<use xlink:href="#SVGID_237_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="230.421" x2="31.622" y2="230.421"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_239_" points="25.72,226.12 25.72,234.12 27.72,234.12 27.72,226.12 					"/>
+				</defs>
+				<clipPath id="SVGID_240_">
+					<use xlink:href="#SVGID_239_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_240_)">
+					<defs>
+						<polyline id="SVGID_241_" points="24.72,225.12 24.72,235.12 28.72,235.12 28.72,225.12 						"/>
+					</defs>
+					<clipPath id="SVGID_242_">
+						<use xlink:href="#SVGID_241_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="195.363" x2="31.622" y2="195.363"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_243_" points="25.72,191.12 25.72,199.12 27.72,199.12 27.72,191.12 					"/>
+				</defs>
+				<clipPath id="SVGID_244_">
+					<use xlink:href="#SVGID_243_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_244_)">
+					<defs>
+						<polyline id="SVGID_245_" points="24.72,190.12 24.72,200.12 28.72,200.12 28.72,190.12 						"/>
+					</defs>
+					<clipPath id="SVGID_246_">
+						<use xlink:href="#SVGID_245_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="186.596" x2="31.622" y2="186.596"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_247_" points="25.72,182.12 25.72,190.12 27.72,190.12 27.72,182.12 					"/>
+				</defs>
+				<clipPath id="SVGID_248_">
+					<use xlink:href="#SVGID_247_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_248_)">
+					<defs>
+						<polyline id="SVGID_249_" points="24.72,181.12 24.72,191.12 28.72,191.12 28.72,181.12 						"/>
+					</defs>
+					<clipPath id="SVGID_250_">
+						<use xlink:href="#SVGID_249_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="181.328" x2="31.622" y2="181.328"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_251_" points="25.72,177.12 25.72,185.12 27.72,185.12 27.72,177.12 					"/>
+				</defs>
+				<clipPath id="SVGID_252_">
+					<use xlink:href="#SVGID_251_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_252_)">
+					<defs>
+						<polyline id="SVGID_253_" points="24.72,176.12 24.72,186.12 28.72,186.12 28.72,176.12 						"/>
+					</defs>
+					<clipPath id="SVGID_254_">
+						<use xlink:href="#SVGID_253_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="177.551" x2="31.622" y2="177.551"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_255_" points="25.72,173.12 25.72,181.12 27.72,181.12 27.72,173.12 					"/>
+				</defs>
+				<clipPath id="SVGID_256_">
+					<use xlink:href="#SVGID_255_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_256_)">
+					<defs>
+						<polyline id="SVGID_257_" points="24.72,172.12 24.72,182.12 28.72,182.12 28.72,172.12 						"/>
+					</defs>
+					<clipPath id="SVGID_258_">
+						<use xlink:href="#SVGID_257_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="174.604" x2="31.622" y2="174.604"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_259_" points="25.72,170.12 25.72,178.12 27.72,178.12 27.72,170.12 					"/>
+				</defs>
+				<clipPath id="SVGID_260_">
+					<use xlink:href="#SVGID_259_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_260_)">
+					<defs>
+						<polyline id="SVGID_261_" points="24.72,169.12 24.72,179.12 28.72,179.12 28.72,169.12 						"/>
+					</defs>
+					<clipPath id="SVGID_262_">
+						<use xlink:href="#SVGID_261_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="172.187" x2="31.622" y2="172.187"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_263_" points="25.72,168.12 25.72,176.12 27.72,176.12 27.72,168.12 					"/>
+				</defs>
+				<clipPath id="SVGID_264_">
+					<use xlink:href="#SVGID_263_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_264_)">
+					<defs>
+						<polyline id="SVGID_265_" points="24.72,167.12 24.72,177.12 28.72,177.12 28.72,167.12 						"/>
+					</defs>
+					<clipPath id="SVGID_266_">
+						<use xlink:href="#SVGID_265_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="170.138" x2="31.622" y2="170.138"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_267_" points="25.72,166.12 25.72,174.12 27.72,174.12 27.72,166.12 					"/>
+				</defs>
+				<clipPath id="SVGID_268_">
+					<use xlink:href="#SVGID_267_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_268_)">
+					<defs>
+						<polyline id="SVGID_269_" points="24.72,165.12 24.72,175.12 28.72,175.12 28.72,165.12 						"/>
+					</defs>
+					<clipPath id="SVGID_270_">
+						<use xlink:href="#SVGID_269_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="168.36" x2="31.622" y2="168.36"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_271_" points="25.72,164.12 25.72,172.12 27.72,172.12 27.72,164.12 					"/>
+				</defs>
+				<clipPath id="SVGID_272_">
+					<use xlink:href="#SVGID_271_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_272_)">
+					<defs>
+						<polyline id="SVGID_273_" points="24.72,163.12 24.72,173.12 28.72,173.12 28.72,163.12 						"/>
+					</defs>
+					<clipPath id="SVGID_274_">
+						<use xlink:href="#SVGID_273_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="133.303" x2="31.622" y2="133.303"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_275_" points="25.72,129.12 25.72,137.12 27.72,137.12 27.72,129.12 					"/>
+				</defs>
+				<clipPath id="SVGID_276_">
+					<use xlink:href="#SVGID_275_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_276_)">
+					<defs>
+						<polyline id="SVGID_277_" points="24.72,128.12 24.72,138.12 28.72,138.12 28.72,128.12 						"/>
+					</defs>
+					<clipPath id="SVGID_278_">
+						<use xlink:href="#SVGID_277_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="124.535" x2="31.622" y2="124.535"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_279_" points="25.72,120.12 25.72,128.12 27.72,128.12 27.72,120.12 					"/>
+				</defs>
+				<clipPath id="SVGID_280_">
+					<use xlink:href="#SVGID_279_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_280_)">
+					<defs>
+						<polyline id="SVGID_281_" points="24.72,119.12 24.72,129.12 28.72,129.12 28.72,119.12 						"/>
+					</defs>
+					<clipPath id="SVGID_282_">
+						<use xlink:href="#SVGID_281_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="119.268" x2="31.622" y2="119.268"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_283_" points="25.72,115.12 25.72,123.12 27.72,123.12 27.72,115.12 					"/>
+				</defs>
+				<clipPath id="SVGID_284_">
+					<use xlink:href="#SVGID_283_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_284_)">
+					<defs>
+						<polyline id="SVGID_285_" points="24.72,114.12 24.72,124.12 28.72,124.12 28.72,114.12 						"/>
+					</defs>
+					<clipPath id="SVGID_286_">
+						<use xlink:href="#SVGID_285_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="115.49" x2="31.622" y2="115.49"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_287_" points="25.72,111.12 25.72,119.12 27.72,119.12 27.72,111.12 					"/>
+				</defs>
+				<clipPath id="SVGID_288_">
+					<use xlink:href="#SVGID_287_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_288_)">
+					<defs>
+						<polyline id="SVGID_289_" points="24.72,110.12 24.72,120.12 28.72,120.12 28.72,110.12 						"/>
+					</defs>
+					<clipPath id="SVGID_290_">
+						<use xlink:href="#SVGID_289_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="112.543" x2="31.622" y2="112.543"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_291_" points="25.72,108.12 25.72,116.12 27.72,116.12 27.72,108.12 					"/>
+				</defs>
+				<clipPath id="SVGID_292_">
+					<use xlink:href="#SVGID_291_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_292_)">
+					<defs>
+						<polyline id="SVGID_293_" points="24.72,107.12 24.72,117.12 28.72,117.12 28.72,107.12 						"/>
+					</defs>
+					<clipPath id="SVGID_294_">
+						<use xlink:href="#SVGID_293_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="110.126" x2="31.622" y2="110.126"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_295_" points="25.72,106.12 25.72,114.12 27.72,114.12 27.72,106.12 					"/>
+				</defs>
+				<clipPath id="SVGID_296_">
+					<use xlink:href="#SVGID_295_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_296_)">
+					<defs>
+						<polyline id="SVGID_297_" points="24.72,105.12 24.72,115.12 28.72,115.12 28.72,105.12 						"/>
+					</defs>
+					<clipPath id="SVGID_298_">
+						<use xlink:href="#SVGID_297_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="108.078" x2="31.622" y2="108.078"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_299_" points="25.72,104.12 25.72,112.12 27.72,112.12 27.72,104.12 					"/>
+				</defs>
+				<clipPath id="SVGID_300_">
+					<use xlink:href="#SVGID_299_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_300_)">
+					<defs>
+						<polyline id="SVGID_301_" points="24.72,103.12 24.72,113.12 28.72,113.12 28.72,103.12 						"/>
+					</defs>
+					<clipPath id="SVGID_302_">
+						<use xlink:href="#SVGID_301_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="106.3" x2="31.622" y2="106.3"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_303_" points="25.72,102.12 25.72,110.12 27.72,110.12 27.72,102.12 					"/>
+				</defs>
+				<clipPath id="SVGID_304_">
+					<use xlink:href="#SVGID_303_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_304_)">
+					<defs>
+						<polyline id="SVGID_305_" points="24.72,101.12 24.72,111.12 28.72,111.12 28.72,101.12 						"/>
+					</defs>
+					<clipPath id="SVGID_306_">
+						<use xlink:href="#SVGID_305_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="71.242" x2="31.622" y2="71.242"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_307_" points="25.72,67.12 25.72,75.12 27.72,75.12 27.72,67.12 					"/>
+				</defs>
+				<clipPath id="SVGID_308_">
+					<use xlink:href="#SVGID_307_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_308_)">
+					<defs>
+						<polyline id="SVGID_309_" points="24.72,66.12 24.72,76.12 28.72,76.12 28.72,66.12 						"/>
+					</defs>
+					<clipPath id="SVGID_310_">
+						<use xlink:href="#SVGID_309_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="62.474" x2="31.622" y2="62.474"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_311_" points="25.72,58.12 25.72,66.12 27.72,66.12 27.72,58.12 					"/>
+				</defs>
+				<clipPath id="SVGID_312_">
+					<use xlink:href="#SVGID_311_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_312_)">
+					<defs>
+						<polyline id="SVGID_313_" points="24.72,57.12 24.72,67.12 28.72,67.12 28.72,57.12 						"/>
+					</defs>
+					<clipPath id="SVGID_314_">
+						<use xlink:href="#SVGID_313_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="57.207" x2="31.622" y2="57.207"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_315_" points="25.72,53.12 25.72,61.12 27.72,61.12 27.72,53.12 					"/>
+				</defs>
+				<clipPath id="SVGID_316_">
+					<use xlink:href="#SVGID_315_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_316_)">
+					<defs>
+						<polyline id="SVGID_317_" points="24.72,52.12 24.72,62.12 28.72,62.12 28.72,52.12 						"/>
+					</defs>
+					<clipPath id="SVGID_318_">
+						<use xlink:href="#SVGID_317_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="53.429" x2="31.622" y2="53.429"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_319_" points="25.72,49.12 25.72,57.12 27.72,57.12 27.72,49.12 					"/>
+				</defs>
+				<clipPath id="SVGID_320_">
+					<use xlink:href="#SVGID_319_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_320_)">
+					<defs>
+						<polyline id="SVGID_321_" points="24.72,48.12 24.72,58.12 28.72,58.12 28.72,48.12 						"/>
+					</defs>
+					<clipPath id="SVGID_322_">
+						<use xlink:href="#SVGID_321_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="50.482" x2="31.622" y2="50.482"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_323_" points="25.72,46.12 25.72,54.12 27.72,54.12 27.72,46.12 					"/>
+				</defs>
+				<clipPath id="SVGID_324_">
+					<use xlink:href="#SVGID_323_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_324_)">
+					<defs>
+						<polyline id="SVGID_325_" points="24.72,45.12 24.72,55.12 28.72,55.12 28.72,45.12 						"/>
+					</defs>
+					<clipPath id="SVGID_326_">
+						<use xlink:href="#SVGID_325_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="48.066" x2="31.622" y2="48.066"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_327_" points="25.72,44.12 25.72,52.12 27.72,52.12 27.72,44.12 					"/>
+				</defs>
+				<clipPath id="SVGID_328_">
+					<use xlink:href="#SVGID_327_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_328_)">
+					<defs>
+						<polyline id="SVGID_329_" points="24.72,43.12 24.72,53.12 28.72,53.12 28.72,43.12 						"/>
+					</defs>
+					<clipPath id="SVGID_330_">
+						<use xlink:href="#SVGID_329_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="46.017" x2="31.622" y2="46.017"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_331_" points="25.72,42.12 25.72,50.12 27.72,50.12 27.72,42.12 					"/>
+				</defs>
+				<clipPath id="SVGID_332_">
+					<use xlink:href="#SVGID_331_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_332_)">
+					<defs>
+						<polyline id="SVGID_333_" points="24.72,41.12 24.72,51.12 28.72,51.12 28.72,41.12 						"/>
+					</defs>
+					<clipPath id="SVGID_334_">
+						<use xlink:href="#SVGID_333_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.654" stroke-miterlimit="3.25" x1="29.168" y1="44.239" x2="31.622" y2="44.239"/>
+			<g>
+				<defs>
+					<polyline id="SVGID_335_" points="25.72,40.12 25.72,48.12 27.72,48.12 27.72,40.12 					"/>
+				</defs>
+				<clipPath id="SVGID_336_">
+					<use xlink:href="#SVGID_335_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_336_)">
+					<defs>
+						<polyline id="SVGID_337_" points="24.72,39.12 24.72,49.12 28.72,49.12 28.72,39.12 						"/>
+					</defs>
+					<clipPath id="SVGID_338_">
+						<use xlink:href="#SVGID_337_"  overflow="visible"/>
+					</clipPath>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.144" stroke-miterlimit="3.25" x1="29.168" y1="431.708" x2="29.168" y2="27.32"/>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 123.5273 47.8833)" font-family="'Myriad-Roman'" font-size="15.6984"></text>
+				</g>
+			</g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 912.6973 35.479)" font-family="'Myriad-Roman'" font-size="19.44"></text>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 36 30.3828)" font-family="'Myriad-Roman'" font-size="17.8718">Power (Watts)</text>
+<text transform="matrix(1 0 0 1 610 406.3828)" font-family="'Myriad-Roman'" font-size="17.8718">Frequency (Hz)</text>
+<text transform="matrix(1 0 0 1 200 38.3828)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="17.8718">Log Log Plot of Power delivered to circuit when:</tspan><tspan x="0" y="21.446" font-family="'Myriad-Roman'" font-size="17.8718">C = 0.0001 Farad, L1 = 0.003511 Henry, L2 = 0.00003 Henry, </tspan><tspan x="0" y="42.892" font-family="'Myriad-Roman'" font-size="17.8718">C2 = 0.001</tspan></text>
+</svg>
